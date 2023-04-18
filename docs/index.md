@@ -84,7 +84,7 @@ This can cause inconsistent or inaccurate readings, resulting in poorly calibrat
 <div class="faq-section">
   <dl>
 <dt>Can you provide instructions or compiled firmware for printer X?</dt>
-<dd>Unfortunately no. I converted my SV06 to Klipper and found it better for my use cases than Marlin. However, a tech-savvy individual should be able to adopt my Klipper settings to Marlin or other firmware there.</dd>
+<dd>Unfortunately no. I converted my SV06 to Klipper and found it better for my use cases than Marlin. It should be relatievly easy to adopt klipper changes I specified to Marlin or other firmware.</dd>
 <dt>Why did you replace the original probe with a BLtouch type?</dt>
 <dd>
 I thought my bed was badly wrapped during my fight with the X-axis twist. To mitigate that, I put a glass bed plate. The original sensor requires a metal bed, so I replaced it with a CR touch. After leveling, i saw the printer reported a similar mesh-like original bed, so I realized something else was happening (X-twist!). Since then, I moved back to metal PEI plate - it's easier to pop the parts out quickly. However, now I can switch the plate to any material. Also, with a BLtouch type sensor, it's impossible to crash head into the bed if there is no metal plate on it (happened to a "friend")</dd>
