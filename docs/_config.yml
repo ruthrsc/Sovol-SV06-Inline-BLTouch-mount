@@ -1,7 +1,12 @@
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Sovol SV06 Inline BLTouch mount
 description: Sovol SV06 Inline BLTouch mount STL and klipper setup instruction
 
+defaults:
+  - scope:
+      path: "assets/photos"
+    values:
+      myimage: true
