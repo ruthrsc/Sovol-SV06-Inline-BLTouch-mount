@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="/assets/photos/sv06_inline.png"/>
+<img src="{{"/assets/photos/sv06_inline.png"| relative_url}}"/>
 
 
 # Print instruction
@@ -96,6 +96,6 @@ I thought my bed was badly wrapped during my fight with the X-axis twist. To mit
 <div id="photos">
 {% assign image_files = site.static_files | where: "myimage", true %}
 {% for myimage in image_files %}
-      <a href="{{myimage.path}}"><img src="{{ myimage.path }}"/></a>
+      <a href="{{myimage.path|relative_url}}"><img src="{{ myimage.path | relative_url}}"/></a>
 {% endfor %}
 </div>
