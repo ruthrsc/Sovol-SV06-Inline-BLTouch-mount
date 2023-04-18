@@ -1,3 +1,5 @@
+- link: '#download'
+  name: Download
 - link: '#print-instruction'
   name: Print instruction
 - link: '#required-hardware'

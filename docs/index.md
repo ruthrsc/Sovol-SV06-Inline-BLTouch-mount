@@ -3,6 +3,9 @@ layout: default
 ---
 <img src="{{"/assets/photos/sv06_inline.png"| relative_url}}"/>
 
+# Download
+
+[https://github.com/ruthrsc/Sovol-SV06-Inline-BLTouch-mount/releases](https://github.com/ruthrsc/Sovol-SV06-Inline-BLTouch-mount/releases)
 
 # Print instruction
 
