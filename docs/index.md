@@ -72,6 +72,7 @@ This can cause inconsistent or inaccurate readings, resulting in poorly calibrat
 * +5mm/-5mm bracket height adjustment
 * 5mm thick, sturdy bracket design
 * Works with stock and [SV06 5015 Fan Duct](https://www.printables.com/model/410475-sv06-5015-fan-duct-rounded) from NAM1025. Possibly others.
+* comes with .f3d, .stl and .step files for remixing
 
 ## The bad
 
