@@ -102,3 +102,7 @@ I thought my bed was badly wrapped during my fight with the X-axis twist. To mit
       <a href="{{myimage.path|relative_url}}"><img src="{{ myimage.path | relative_url}}"/></a>
 {% endfor %}
 </div>
+
+# Credits
+
+Inspired (but not copied or reused) by work of HeyMoe! - https://www.printables.com/model/382057-bltouch-cr-touch-mount-for-sv06
