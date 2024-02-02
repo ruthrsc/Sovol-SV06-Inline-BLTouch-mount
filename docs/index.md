@@ -29,6 +29,9 @@ When installing, if you flush the bracket with top of X-axis extruder assembly, 
 position_max: 208
 
 [bltouch]
+# Adjust pins if needed
+#sensor_pin: ^PB1
+#control_pin: PB0
 x_offset: 45
 y_offset: 0
 
